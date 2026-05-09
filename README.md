@@ -19,4 +19,5 @@ Claude code: Sonnet 4.6 adaptativo
 *Links*
 
 [Artigo](Dengue_Epidemic_Calculator_Article.docx)
+
 [Programa](Epidemic_Calculator.py)
